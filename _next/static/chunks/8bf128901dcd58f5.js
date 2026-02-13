@@ -129,6 +129,7 @@ When drafting public statements, avoid:
 | "Actually works" | Absolute performance claims | "Designed to deliver actionable intelligence" |
 | "Unfair advantage" | Aggressive positioning | "Competitive edge" |
 | "This is what responsible AI trading looks like" | Overclaims compliance | "This is our approach to responsible AI-assisted trading" |
+| Paraphrasing regulators as if quoting them | Misattribution risk | Describe their policies factually, then add your take separately |
 
 Key regulations:
 - MAS Guidelines PS-G02 (Digital Payment Token Services)
